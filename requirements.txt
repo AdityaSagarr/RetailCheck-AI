@@ -1,0 +1,9 @@
+pytesseract
+Pillow
+unstructured
+langchain-groq
+nltk
+langchain_community
+pi_heif
+pdfminer.six
+streamlit
